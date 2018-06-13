@@ -1,0 +1,15 @@
+c:\users\bla\documents\visual studio 2017\Projects\Kalendarz\Kalendarz\bin\Debug\Kalendarz.exe.config
+c:\users\bla\documents\visual studio 2017\Projects\Kalendarz\Kalendarz\bin\Debug\Kalendarz.exe
+c:\users\bla\documents\visual studio 2017\Projects\Kalendarz\Kalendarz\bin\Debug\Kalendarz.pdb
+c:\users\bla\documents\visual studio 2017\Projects\Kalendarz\Kalendarz\obj\Debug\Kalendarz.csprojResolveAssemblyReference.cache
+c:\users\bla\documents\visual studio 2017\Projects\Kalendarz\Kalendarz\obj\Debug\MainWindow.g.cs
+c:\users\bla\documents\visual studio 2017\Projects\Kalendarz\Kalendarz\obj\Debug\App.g.cs
+c:\users\bla\documents\visual studio 2017\Projects\Kalendarz\Kalendarz\obj\Debug\Kalendarz_MarkupCompile.cache
+c:\users\bla\documents\visual studio 2017\Projects\Kalendarz\Kalendarz\obj\Debug\Kalendarz_MarkupCompile.lref
+c:\users\bla\documents\visual studio 2017\Projects\Kalendarz\Kalendarz\obj\Debug\MainWindow.baml
+c:\users\bla\documents\visual studio 2017\Projects\Kalendarz\Kalendarz\obj\Debug\Kalendarz.g.resources
+c:\users\bla\documents\visual studio 2017\Projects\Kalendarz\Kalendarz\obj\Debug\Kalendarz.Properties.Resources.resources
+c:\users\bla\documents\visual studio 2017\Projects\Kalendarz\Kalendarz\obj\Debug\Kalendarz.csproj.GenerateResource.Cache
+c:\users\bla\documents\visual studio 2017\Projects\Kalendarz\Kalendarz\obj\Debug\Kalendarz.exe
+c:\users\bla\documents\visual studio 2017\Projects\Kalendarz\Kalendarz\obj\Debug\Kalendarz.pdb
+C:\Users\Bla\documents\visual studio 2017\Projects\Kalendarz\Kalendarz\obj\Debug\GeneratedInternalTypeHelper.g.cs
