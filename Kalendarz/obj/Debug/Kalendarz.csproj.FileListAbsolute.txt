@@ -12,4 +12,3 @@ c:\users\bla\documents\visual studio 2017\Projects\Kalendarz\Kalendarz\obj\Debug
 c:\users\bla\documents\visual studio 2017\Projects\Kalendarz\Kalendarz\obj\Debug\Kalendarz.csproj.GenerateResource.Cache
 c:\users\bla\documents\visual studio 2017\Projects\Kalendarz\Kalendarz\obj\Debug\Kalendarz.exe
 c:\users\bla\documents\visual studio 2017\Projects\Kalendarz\Kalendarz\obj\Debug\Kalendarz.pdb
-C:\Users\Bla\documents\visual studio 2017\Projects\Kalendarz\Kalendarz\obj\Debug\GeneratedInternalTypeHelper.g.cs

@@ -237,8 +237,8 @@ namespace Kalendarz
             calendar.DisplayDate = DateTime.Today;
 
             // mojKalendarz.ZapiszNaDysku();
-            var path = @"C:\Users\Bla\Documents\Visual Studio 2017\Projects\Kalendarz\Kalendarz\ser" + ".xml";
-            XmlSerialization.WriteToXmlFile<List<MyEvent>>("people.txt", mojKalendarz.Wydarzenia);
+            //var path = @"C:\Users\Bla\Documents\Visual Studio 2017\Projects\Kalendarz\Kalendarz\ser\" + ".xml";
+            //XmlSerialization.WriteToXmlFile<List<MyEvent>>("people.txt", mojKalendarz.Wydarzenia);
         }
 
         private void btChangeDate_Click(object sender, RoutedEventArgs e)
