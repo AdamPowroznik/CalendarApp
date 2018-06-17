@@ -8,7 +8,7 @@ I created this app by myself - Adam Powroznik
 Version
 ---------
 This app isn't fished yet! So the version is 
-'v0.1'
+`v0.1`
 
 Why this app even exists?
 ---------------
