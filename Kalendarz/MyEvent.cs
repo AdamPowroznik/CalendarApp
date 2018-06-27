@@ -13,8 +13,6 @@ using System.Xml.Serialization;
 
 namespace Kalendarz
 {
-    [XmlInclude(typeof(System.Windows.Data.Binding))]
-    [Serializable]
     public class MyEvent
     {
         public String Opis { get { return opis; } set { opis = value; } }

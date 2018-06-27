@@ -64,14 +64,7 @@ namespace Kalendarz
         
         public void ZapiszNaDysku()
         {
-            var path = @"C:\Users\Bla\Documents\Visual Studio 2017\Projects\Kalendarz\Kalendarz\ser" + ".xml";
-            XmlSerialization.WriteToXmlFile<List<MyEvent>>(path, Wydarzenia);
-            foreach (MyEvent Event in Wydarzenia)
-            {
-                
-                // Event.WriteToXmlFile(@"C:\Users\Bla\Documents\Visual Studio 2017\Projects\Kalendarz\Kalendarz\ser" + Event.ToString() + ".xml", Event, false);
-            }
-           
+          
         }
 
         public bool SprawdzCzyWydarzenieIstnieje(DateTime data, EventType rodzaj)
