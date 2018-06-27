@@ -15,3 +15,14 @@ Why this app even exists?
 I'm creating this kind of app to upgrade my programming skills
 
 and don't you even thought that calendar application with to-do list could be usefull for you? ;)
+
+Missing parts:
+-------------------
+Save and load of current events,
+Multiple accounting,
+
+Bugs:
+-----------
+Some colors (styles) problems
+
+
